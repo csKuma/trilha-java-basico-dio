@@ -9,6 +9,7 @@ public class ControleFluxo {
         var valor1 = sc.nextInt();
         System.out.println("insira o segundo valor");
         var valor2 = sc.nextInt();
+        sc.nextDouble();
         validarValores(valor1, valor2);
         imprimirValores(valor1, valor2);
     }
