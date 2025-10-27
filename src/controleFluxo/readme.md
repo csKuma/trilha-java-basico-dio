@@ -19,4 +19,4 @@ Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
 
 
-![diagrama iphone](./diagrama/DiagramaIphonw.png)
+![diagrama iphone](diagrama/DiagramaIphone.png)
